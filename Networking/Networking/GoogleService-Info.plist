@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>318182731865-6oqhas2evsgf5iq9csakp0baq6uph8rn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.318182731865-6oqhas2evsgf5iq9csakp0baq6uph8rn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVWZFuxisjsOLjqTTjdYSK44l_TVbefT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>318182731865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AlexMike.Networking</string>
+	<key>PROJECT_ID</key>
+	<string>networking-65485</string>
+	<key>STORAGE_BUCKET</key>
+	<string>networking-65485.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:318182731865:ios:6667931f0f289ad4b78148</string>
+</dict>
+</plist>

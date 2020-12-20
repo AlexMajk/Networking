@@ -15,8 +15,8 @@
 		261586A7250FE22A00DBB89A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 261586A5250FE22A00DBB89A /* Main.storyboard */; };
 		261586A9250FE22B00DBB89A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 261586A8250FE22B00DBB89A /* Assets.xcassets */; };
 		261586AC250FE22B00DBB89A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 261586AA250FE22B00DBB89A /* LaunchScreen.storyboard */; };
-		263EAE50258F729900A3AAD5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 263EAE4F258F729900A3AAD5 /* GoogleService-Info.plist */; };
 		2645198A258E31C900BC2384 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26451989258E31C900BC2384 /* LoginViewController.swift */; };
+		264B1EEF258F763700DEE9E8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 264B1EEE258F763700DEE9E8 /* GoogleService-Info.plist */; };
 		26AF574E25582F1B00D393AB /* AlamofireNetworkRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AF574D25582F1B00D393AB /* AlamofireNetworkRequest.swift */; };
 		26C49FEB254F1F15003A31CC /* DataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26C49FEA254F1F15003A31CC /* DataProvider.swift */; };
 		26EB1BFC2523B8BA0025424C /* CoursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26EB1BFB2523B8BA0025424C /* CoursesViewController.swift */; };
@@ -40,9 +40,9 @@
 		261586A8250FE22B00DBB89A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		261586AB250FE22B00DBB89A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		261586AD250FE22B00DBB89A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		263EAE4F258F729900A3AAD5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		26451989258E31C900BC2384 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		2645198C258E324E00BC2384 /* Networking.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Networking.entitlements; sourceTree = "<group>"; };
+		264B1EEE258F763700DEE9E8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		26AF574D25582F1B00D393AB /* AlamofireNetworkRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamofireNetworkRequest.swift; sourceTree = "<group>"; };
 		26C49FEA254F1F15003A31CC /* DataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataProvider.swift; sourceTree = "<group>"; };
 		26EB1BFB2523B8BA0025424C /* CoursesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesViewController.swift; sourceTree = "<group>"; };
@@ -122,7 +122,7 @@
 				261586A8250FE22B00DBB89A /* Assets.xcassets */,
 				261586AA250FE22B00DBB89A /* LaunchScreen.storyboard */,
 				261586AD250FE22B00DBB89A /* Info.plist */,
-				263EAE4F258F729900A3AAD5 /* GoogleService-Info.plist */,
+				264B1EEE258F763700DEE9E8 /* GoogleService-Info.plist */,
 			);
 			path = Networking;
 			sourceTree = "<group>";
@@ -217,7 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				261586AC250FE22B00DBB89A /* LaunchScreen.storyboard in Resources */,
-				263EAE50258F729900A3AAD5 /* GoogleService-Info.plist in Resources */,
+				264B1EEF258F763700DEE9E8 /* GoogleService-Info.plist in Resources */,
 				261586A9250FE22B00DBB89A /* Assets.xcassets in Resources */,
 				261586A7250FE22A00DBB89A /* Main.storyboard in Resources */,
 			);
